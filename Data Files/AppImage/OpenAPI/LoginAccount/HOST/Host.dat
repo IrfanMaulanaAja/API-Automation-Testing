@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Host</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>ba07dd5c-5bd8-4ffd-9d78-0c04a278aa6d</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>https%3A%2F%2Fstaging-mapp.alodokter.com Alodokter</data>
+   <data>null Alodokter</data>
+   <data>null Alomedika</data>
+   <data>null Alomedika</data>
+   <data>null OAPI-Mayapada</data>
+   <data>null OAPI-Siloam</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>HOST</name>
+      <size>6</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>APP</name>
+      <size>6</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

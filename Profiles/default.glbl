@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>option : staging | appimage</description>
+      <initValue>'staging'</initValue>
+      <name>Environment</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>leave empty</description>
+      <initValue>''</initValue>
+      <name>EmailLogin</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>leave empty</description>
+      <initValue>''</initValue>
+      <name>PassLogin</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>leave empty</description>
+      <initValue>''</initValue>
+      <name>NoHPLogin</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>leave empty</description>
+      <initValue>''</initValue>
+      <name>Report</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>leave empty</description>
+      <initValue>''</initValue>
+      <name>Note</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>leave empty</description>
+      <initValue>''</initValue>
+      <name>EmailAlomedika</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>leave empty</description>
+      <initValue>''</initValue>
+      <name>PassAlomedika</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'4.5.0'</initValue>
+      <name>AlodokterVersion</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'4.5.0'</initValue>
+      <name>AlomedikaVersion</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>fill with your BS access key</description>
+      <initValue>'https://username:key@hub-cloud.browserstack.com/wd/hub'</initValue>
+      <name>BrowserStackServerURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>leave empty</description>
+      <initValue>''</initValue>
+      <name>BSIDApp_Alodokter</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>leave empty</description>
+      <initValue>''</initValue>
+      <name>BSIDApp_Alomedika</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'API Critical'</initValue>
+      <name>TypeRun</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>option : yes | no</description>
+      <initValue>'no'</initValue>
+      <name>RunningOnBrowserstack</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>leave empty</description>
+      <initValue>''</initValue>
+      <name>InstalledAlodokter</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>leave empty</description>
+      <initValue>''</initValue>
+      <name>InstalledAlomedika</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>leave empty</description>
+      <initValue>''</initValue>
+      <name>SquadName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>leave empty</description>
+      <initValue>''</initValue>
+      <name>TestSuiteName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>leave empty</description>
+      <initValue>''</initValue>
+      <name>TestCaseName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>leave empty</description>
+      <initValue>''</initValue>
+      <name>DateTimeStamp</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>leave empty</description>
+      <initValue>''</initValue>
+      <name>isCriticalPath</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>BASE_UID</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>BASE_TOKEN</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

@@ -1,0 +1,10 @@
+/node_modules/
+/Log/*
+
+package-lock.json
+/bin/
+/bin/
+/Libs/
+/.settings/
+/.classpath
+.svn/
